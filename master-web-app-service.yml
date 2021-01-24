@@ -1,0 +1,6 @@
+application:
+  postgres:
+    region: "default"
+    endpoint: "localhost"
+    port: "1234"
+    
